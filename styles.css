@@ -100,3 +100,10 @@
 .footer-three {
     flex: 2;
 }
+
+.footer-one,
+.footer-three {
+    background-color: #5995da;
+    flex: initial;
+    width: 300px;
+}
