@@ -32,6 +32,13 @@
     /* border: 1px solid #5995DA; */
 }
 
+
+.social,
+.subscribe {
+    align-self: flex-end;
+    margin-bottom: 20px;
+}
+
 .header {
     width: 900px;
     height: 300px;
